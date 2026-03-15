@@ -46,9 +46,9 @@ Check out the deployed app here: [Product-App](https://mern-product-app-1-75cs.o
 
 mern-product-app/
 
-├── client/ # React frontend
+├── frontend/ # React frontend
 
-├── server/ # Node.js backend
+├── backend/ # Node.js backend
 
 ├── README.md
 
